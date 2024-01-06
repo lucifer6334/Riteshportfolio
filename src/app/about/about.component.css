@@ -1,0 +1,29 @@
+/* .background{
+    background: linear-gradient(90deg, #2CD9FF, #7EFFB2);
+    background-size: 400% 400%;
+    animation: anim 2.5s infinite ease-in-out;
+  }
+  @keyframes anim {
+    0% {
+      background-position:0 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0 50%;
+    }
+  } */
+
+
+  .custom-font {
+    font-family: Georgia, sans-serif; /* Replace 'Your Custom Font' with the actual font name or font stack */
+}
+
+/* .border{
+  transition: box-shadow 0.4s ease;
+}
+
+.border:hover {
+  box-shadow: 15px 15px 20px  #ce3333;
+} */

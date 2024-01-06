@@ -1,0 +1,17 @@
+.custom-font {
+    font-family: Georgia, sans-serif; /* Replace 'Your Custom Font' with the actual font name or font stack */
+}
+
+
+.border:hover {
+    box-shadow: 15px 15px 20px #ce3333;
+}
+
+.border{
+    transition: box-shadow 0.4s ease;
+}
+
+/* .row {
+    margin-right: 65px;
+    margin-left: 55px;
+} */

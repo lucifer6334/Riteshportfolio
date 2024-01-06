@@ -1,0 +1,48 @@
+span {
+  font-weight: 600;
+  margin: 12px;
+}
+
+.sub {
+  margin-left: 12px;
+  font-weight: 400;
+}
+.footericon {
+  color: crimson;
+  font-size: 30px;
+}
+
+.footer span {
+  color: white;
+}
+
+footer {
+  background: black;
+  padding: 15px 23px;
+  color: #fff;
+  text-align: center;
+}
+
+.m-3 a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+.contacticon1:hover {
+    color: #1f2328;
+}
+
+.contacticon2:hover {
+    color: #0077b5;
+}
+
+.contacticon3:hover {
+    color: #f14e32;
+}
+
+
+.custom-font {
+  font-family: Georgia, sans-serif; /* Replace 'Your Custom Font' with the actual font name or font stack */
+}
